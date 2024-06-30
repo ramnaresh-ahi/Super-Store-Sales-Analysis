@@ -18,7 +18,7 @@ This repository contains a comprehensive sales analysis dashboard created using 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ramnaresh-ahi/super-store-sales-analysis.git
+   git clone https://github.com/ramnaresh-ahi/Super-Store-Sales-Analysis.git
    ```
 2. **Open the Power BI file:** Download and open the `Super_Store_Sales_Analysis.pbix` file in Power BI Desktop.
 3. **Connect to your data source:** Update the data source settings to connect to your super store sales data.
